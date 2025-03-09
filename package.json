@@ -63,5 +63,18 @@
   },
   "dependencies": {
     "@openzeppelin/contracts": "^5.2.0"
-  }
+  },
+  "description": "<h4 align=\"center\">   <a href=\"https://docs.scaffoldeth.io\">Documentation</a> |   <a href=\"https://scaffoldeth.io\">Website</a> </h4>",
+  "main": ".lintstagedrc.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Patr1xk/bcc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Patr1xk/bcc/issues"
+  },
+  "homepage": "https://github.com/Patr1xk/bcc#readme"
 }
