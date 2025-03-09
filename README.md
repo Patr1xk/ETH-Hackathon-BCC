@@ -73,9 +73,9 @@ Visit our [docs](https://docs.scaffoldeth.io) to learn how to start building wit
 
 ## Evidence of Contract Verification
 
-https://sepolia.scrollscan.com/verifyContract-solc?a=0x8950E863d4cb1442e3dc338e6a1D2803291a0fda&c=v0.8.26%2Bcommit.8a97fa7a&lictype=3
+[https://sepolia.scrollscan.com/verifyContract-solc?a=0x8950E863d4cb1442e3dc338e6a1D2803291a0fda&c=v0.8.26%2Bcommit.8a97fa7a&lictype=3
 
-To know more about its features, check out our [website](https://scaffoldeth.io).
+To know more about its features, check out our [website](https://scaffoldeth.io).](https://sepolia.scrollscan.com/verifyContract-solc?a=0x1cFAbd97929E8F00bbaA31a8467136dce9a9981B&c=v0.8.26%2bcommit.8a97fa7a&lictype=3)
 
 ## Contributing to Scaffold-ETH 2
 
